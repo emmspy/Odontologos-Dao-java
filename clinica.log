@@ -1,0 +1,18 @@
+[2024-02-27 20:22:00] [ INFO ] [OdontologoDaoH2:27] Vamos a guardar un odontologo
+[2024-02-27 20:22:00] [ INFO ] [OdontologoDaoH2:53] Se ha gurdado el odontologo : Juan
+[2024-02-27 20:22:00] [ INFO ] [OdontologoDaoH2:27] Vamos a guardar un odontologo
+[2024-02-27 20:22:00] [ INFO ] [OdontologoDaoH2:53] Se ha gurdado el odontologo : Carlos
+[2024-02-27 20:22:00] [ INFO ] [OdontologoDaoH2:59] Estos son todos nuestros odontologos: 
+[2024-02-27 20:22:01] [ INFO ] [OdontologoDaoH2:85] Esta es la lista de odontologos [model.Odontologo@20deea7f, model.Odontologo@3835c46]
+[2024-02-27 20:30:58] [ INFO ] [OdontologoDaoH2:27] Vamos a guardar un odontologo
+[2024-02-27 20:30:58] [ INFO ] [OdontologoDaoH2:53] Se ha gurdado el odontologo : Juan
+[2024-02-27 20:30:58] [ INFO ] [OdontologoDaoH2:27] Vamos a guardar un odontologo
+[2024-02-27 20:30:59] [ INFO ] [OdontologoDaoH2:53] Se ha gurdado el odontologo : Carlos
+[2024-02-27 20:30:59] [ INFO ] [OdontologoDaoH2:59] Estos son todos nuestros odontologos: 
+[2024-02-27 20:30:59] [ INFO ] [OdontologoDaoH2:85] Esta es la lista de odontologos [model.Odontologo@27ce24aa, model.Odontologo@481a996b]
+[2024-02-27 21:13:26] [ INFO ] [OdontologoDaoH2:27] Vamos a guardar un odontologo
+[2024-02-27 21:13:26] [ INFO ] [OdontologoDaoH2:55] Se ha gurdado el odontologo : Juan
+[2024-02-27 21:13:26] [ INFO ] [OdontologoDaoH2:27] Vamos a guardar un odontologo
+[2024-02-27 21:13:26] [ INFO ] [OdontologoDaoH2:55] Se ha gurdado el odontologo : Carlos
+[2024-02-27 21:13:26] [ INFO ] [OdontologoDaoH2:61] Estos son todos nuestros odontologos: 
+[2024-02-27 21:13:27] [ INFO ] [OdontologoDaoH2:87] Esta es la lista de odontologos [model.Odontologo@647e447, model.Odontologo@41fbdac4]
